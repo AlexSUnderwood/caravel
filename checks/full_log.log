@@ -1,0 +1,60 @@
+FULL RUN LOG:
+ Uncompressing the gds files
+Step 0 done without fatal errors.
+ Executing Step 1 of 4: Checking License files.
+{{LICENSE COMPLIANCE PASSED}} Apache-2.0 LICENSE file was found in project root
+ No third party libraries found.
+Step 1 done without fatal errors.
+{{SPDX COMPLIANCE WARNING}} Found 45 non-compliant files with the SPDX Standard. Check full log for more information
+SPDX COMPLIANCE: NON-COMPLIANT FILES PREVIEW: ['/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/caravel.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/user_proj_example.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/mprj_logic_high.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/mgmt_protect.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/user_project_wrapper.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/mgmt_protect_hv.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/mprj2_logic_high.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/chip_io.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl/spimemio.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl/mgmt_soc.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl/mprj_logic_high.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl/simpleuart.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl/mprj2_logic_high.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl/picorv32.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/dv/caravel/sections.lds', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/dv/caravel/spiflash.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/dv/caravel/tbuart.v', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/dv/caravel/start.s', '/mnt/md0/for_prod/caravel_riscv_osu/verilog/dv/caravel/mgmt_soc/gpio/gpio_tb.v']
+ Executing Step 2 of 4: Checking YAML description.
+ YAML file valid!
+Step 2 done without fatal errors.
+ Executing Step 3 of 4: Executing Fuzzy Consistency Checks.
+b'Going into /mnt/md0/for_prod/caravel_riscv_osu/verilog/rtl'
+b'Removing manifest'
+b'Fetching manifest'
+b'Running sha1sum checks'
+b'Going into /mnt/md0/for_prod/caravel_riscv_osu/maglef'
+b'Removing manifest'
+b'Fetching manifest'
+b'Running sha1sum checks'
+b'Going into /mnt/md0/for_prod/caravel_riscv_osu/mag'
+b'Removing manifest'
+b'Fetching manifest'
+b'Running sha1sum checks'
+ Manifest Checks Passed. RTL Version Matches.
+ Documentation Checks Passed.
+ Makefile Checks Passed.
+instance caravel found
+instance user_project_wrapper found
+Design is complex and contains: 47 modules
+Design is complex and contains: 2 modules
+verilog Consistency Checks Passed.
+Pins check passed
+ Basic Hierarchy Checks Passed.
+ Running Magic Extractions From GDS...
+user wrapper cell names differences: 
+[]
+user wrapper cell type differences: 
+[]
+toplevel cell names differences: 
+[]
+toplevel cell type differences: 
+[]
+GDS Hierarchy Check Passed
+GDS Checks Passed
+ Fuzzy Consistency Checks Passed!
+Step 3 done without fatal errors.
+ Executing Step 4 of 4: Checking DRC Violations.
+ Running DRC Checks...
+Violation Message "Metal4 > 3um spacing to unrelated m4 < 0.4um (met4.5b) "found 8 Times.
+Violation Message "Metal3 > 3um spacing to unrelated m3 < 0.4um (met3.3d) "found 4 Times.
+Violation Message "Can't overlap those layers "found 4 Times.
+Violation Message "Min area of metal2 holes > 0.14um^2 (met2.7) "found 22 Times.
+Violation Message "Metal3 spacing < 0.3um (met3.2) "found 8 Times.
+Violation Message "Metal3 width < 0.3um (met3.1) "found 3 Times.
+Violation Message "Metal1 > 3um spacing to unrelated m1 < 0.28um (met1.3b) "found 19 Times.
+Violation Message "Metal2 > 3um spacing to unrelated m2 < 0.28um (met2.3b) "found 23 Times.
+ DRC Checks on MAG Failed, Reason: Total # of DRC violations is 91
+TEST FAILED AT STEP 4
