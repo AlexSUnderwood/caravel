@@ -44,4 +44,8 @@ SPDX NON-COMPLIANT FILES
 /mnt/md0/for_prod/caravel_riscv_osu/doc/caravel_datasheet.ps
 /mnt/md0/for_prod/caravel_riscv_osu/openlane/chip_dimensions.txt
 /mnt/md0/for_prod/caravel_riscv_osu/openlane/mgmt_protect/pdn.tcl
+/mnt/md0/for_prod/caravel_riscv_osu/checks/mprj.magic.typelist
+/mnt/md0/for_prod/caravel_riscv_osu/checks/caravel.magic.namelist
+/mnt/md0/for_prod/caravel_riscv_osu/checks/mprj.magic.namelist
+/mnt/md0/for_prod/caravel_riscv_osu/checks/caravel.magic.typelist
 /mnt/md0/for_prod/caravel_riscv_osu/mag/clamp_list.txt
