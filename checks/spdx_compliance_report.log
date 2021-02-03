@@ -1,5 +1,6 @@
 FULL RUN LOG:
 SPDX NON-COMPLIANT FILES
+/mnt/md0/for_prod/caravel_riscv_osu/maglef/.magicrc
 /mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/caravel.v
 /mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/user_proj_example.v
 /mnt/md0/for_prod/caravel_riscv_osu/verilog/gl/mprj_logic_high.v
@@ -49,3 +50,4 @@ SPDX NON-COMPLIANT FILES
 /mnt/md0/for_prod/caravel_riscv_osu/checks/mprj.magic.namelist
 /mnt/md0/for_prod/caravel_riscv_osu/checks/caravel.magic.typelist
 /mnt/md0/for_prod/caravel_riscv_osu/mag/clamp_list.txt
+/mnt/md0/for_prod/caravel_riscv_osu/mag/.magicrc
