@@ -21,80 +21,80 @@ caravel: 80000 rects
 [INFO]: Loading caravel
 
 Warning: Calma reading is not undoable!  I hope that's OK.
-Library written using GDS-II Release 3.0
+Library written using GDS-II Release 6.0
 Library name: user_project_wrapper
-Reading "sky130_fd_sc_hd__decap_3".
-Error while reading cell "sky130_fd_sc_hd__decap_3" (byte position 150): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__decap_12".
-Error while reading cell "sky130_fd_sc_hd__decap_12" (byte position 2814): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__decap_8".
-Error while reading cell "sky130_fd_sc_hd__decap_8" (byte position 6948): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__fill_2".
-Reading "sky130_fd_sc_hd__tapvpwrvgnd_1".
-Reading "sky130_fd_sc_hd__diode_2".
-Error while reading cell "sky130_fd_sc_hd__diode_2" (byte position 13568): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__decap_4".
-Error while reading cell "sky130_fd_sc_hd__decap_4" (byte position 17054): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__decap_6".
-Error while reading cell "sky130_fd_sc_hd__decap_6" (byte position 19844): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__fill_1".
-Reading "sky130_fd_sc_hd__inv_2".
-Error while reading cell "sky130_fd_sc_hd__inv_2" (byte position 24268): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__buf_2".
-Error while reading cell "sky130_fd_sc_hd__buf_2" (byte position 28070): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__or4_4".
-Error while reading cell "sky130_fd_sc_hd__or4_4" (byte position 32560): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__dfrtp_4".
-Error while reading cell "sky130_fd_sc_hd__dfrtp_4" (byte position 39862): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__o22a_4".
-Error while reading cell "sky130_fd_sc_hd__o22a_4" (byte position 57710): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__dfxtp_4".
-Error while reading cell "sky130_fd_sc_hd__dfxtp_4" (byte position 67392): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__and2_4".
-Error while reading cell "sky130_fd_sc_hd__and2_4" (byte position 81548): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__or3_4".
-Error while reading cell "sky130_fd_sc_hd__or3_4" (byte position 87288): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a211o_4".
-Error while reading cell "sky130_fd_sc_hd__a211o_4" (byte position 94402): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__nand2_4".
-Error while reading cell "sky130_fd_sc_hd__nand2_4" (byte position 103518): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__or2_4".
-Error while reading cell "sky130_fd_sc_hd__or2_4" (byte position 111154): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a2bb2o_4".
-Error while reading cell "sky130_fd_sc_hd__a2bb2o_4" (byte position 116914): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__and3_4".
-Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 128374): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__conb_1".
-Error while reading cell "sky130_fd_sc_hd__conb_1" (byte position 135266): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__and4_4".
-Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 138626): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a32o_4".
-Error while reading cell "sky130_fd_sc_hd__a32o_4" (byte position 146072): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a22oi_4".
-Error while reading cell "sky130_fd_sc_hd__a22oi_4" (byte position 158264): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a21bo_4".
-Error while reading cell "sky130_fd_sc_hd__a21bo_4" (byte position 170312): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__nor2_4".
-Error while reading cell "sky130_fd_sc_hd__nor2_4" (byte position 178616): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__nand2_4" (byte position 150): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__diode_2".
+Error while reading cell "sky130_fd_sc_hd__diode_2" (byte position 7800): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__inv_2".
+Error while reading cell "sky130_fd_sc_hd__inv_2" (byte position 11308): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__clkbuf_1".
-Error while reading cell "sky130_fd_sc_hd__clkbuf_1" (byte position 185720): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a21o_4".
-Error while reading cell "sky130_fd_sc_hd__a21o_4" (byte position 189526): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__o21a_4".
-Error while reading cell "sky130_fd_sc_hd__o21a_4" (byte position 197746): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__o32a_4".
-Error while reading cell "sky130_fd_sc_hd__o32a_4" (byte position 205726): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__o21ai_4".
-Error while reading cell "sky130_fd_sc_hd__o21ai_4" (byte position 218030): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a21oi_4".
-Error while reading cell "sky130_fd_sc_hd__a21oi_4" (byte position 226140): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__clkbuf_16".
-Error while reading cell "sky130_fd_sc_hd__clkbuf_16" (byte position 234732): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__clkbuf_1" (byte position 15126): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__a211o_4".
+Error while reading cell "sky130_fd_sc_hd__a211o_4" (byte position 18944): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__o22a_4".
+Error while reading cell "sky130_fd_sc_hd__o22a_4" (byte position 28072): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__decap_3".
+Error while reading cell "sky130_fd_sc_hd__decap_3" (byte position 37766): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__a2111o_4".
-Error while reading cell "sky130_fd_sc_hd__a2111o_4" (byte position 247462): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__a2111o_4" (byte position 40442): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__o32a_4".
+Error while reading cell "sky130_fd_sc_hd__o32a_4" (byte position 52864): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__a32o_4".
+Error while reading cell "sky130_fd_sc_hd__a32o_4" (byte position 65180): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__and2_4".
+Error while reading cell "sky130_fd_sc_hd__and2_4" (byte position 77384): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__decap_4".
+Error while reading cell "sky130_fd_sc_hd__decap_4" (byte position 83138): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__and3_4".
+Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 85940): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__and4_4".
+Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 92844): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__decap_6".
+Error while reading cell "sky130_fd_sc_hd__decap_6" (byte position 100302): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "user_project_wrapper".
 Warning:  cell user_project_wrapper already existed before reading GDS!
 Using pre-existing cell definition
+Reading "sky130_fd_sc_hd__a2bb2o_4".
+Error while reading cell "sky130_fd_sc_hd__a2bb2o_4" (byte position 174794270): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__dfrtp_4".
+Error while reading cell "sky130_fd_sc_hd__dfrtp_4" (byte position 174805742): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__tapvpwrvgnd_1".
+Reading "sky130_fd_sc_hd__nor2_4".
+Error while reading cell "sky130_fd_sc_hd__nor2_4" (byte position 174825356): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__decap_8".
+Error while reading cell "sky130_fd_sc_hd__decap_8" (byte position 174832470): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__o21a_4".
+Error while reading cell "sky130_fd_sc_hd__o21a_4" (byte position 174836008): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__a21o_4".
+Error while reading cell "sky130_fd_sc_hd__a21o_4" (byte position 174844000): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__or2_4".
+Error while reading cell "sky130_fd_sc_hd__or2_4" (byte position 174852230): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__buf_2".
+Error while reading cell "sky130_fd_sc_hd__buf_2" (byte position 174857998): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__a21oi_4".
+Error while reading cell "sky130_fd_sc_hd__a21oi_4" (byte position 174862502): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__o21ai_4".
+Error while reading cell "sky130_fd_sc_hd__o21ai_4" (byte position 174871104): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__or3_4".
+Error while reading cell "sky130_fd_sc_hd__or3_4" (byte position 174879224): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__decap_12".
+Error while reading cell "sky130_fd_sc_hd__decap_12" (byte position 174886352): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__fill_1".
+Reading "sky130_fd_sc_hd__a21bo_4".
+Error while reading cell "sky130_fd_sc_hd__a21bo_4" (byte position 174891806): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__a22oi_4".
+Error while reading cell "sky130_fd_sc_hd__a22oi_4" (byte position 174900122): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__fill_2".
+Reading "sky130_fd_sc_hd__or4_4".
+Error while reading cell "sky130_fd_sc_hd__or4_4" (byte position 174913616): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__dfxtp_4".
+Error while reading cell "sky130_fd_sc_hd__dfxtp_4" (byte position 174920930): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__conb_1".
+Error while reading cell "sky130_fd_sc_hd__conb_1" (byte position 174935092): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__clkbuf_16".
+Error while reading cell "sky130_fd_sc_hd__clkbuf_16" (byte position 174938466): Unknown layer/datatype in boundary, layer=236 type=0
 user_project_wrapper: 10000 rects
 user_project_wrapper: 20000 rects
 user_project_wrapper: 30000 rects
